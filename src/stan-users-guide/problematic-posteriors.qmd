@@ -243,7 +243,7 @@ standard normal prior, and one intercept reparameterization without
 prior.  For all three cases, the posterior is plotted for 100 data
 points drawn from a standard normal.
 
-The two intercept parameterization leads to an improper prior with a ridge extending infinitely to the northwest and southeast.
+The two intercept parameterization leads to an improper posterior with a ridge extending infinitely to the northwest and southeast.
 
 ![Two intercepts with improper prior](img/non-identified.png)
 
